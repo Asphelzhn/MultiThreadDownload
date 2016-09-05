@@ -7,4 +7,4 @@
     android:paddingLeft="8dp"
     android:paddingRight="8dp"
     android:clipToPadding="false"
-    tools:context="com.aspsine.multithreaddownload.ui.fragment.RecyclerViewFragment"/>
+    tools:context="com.aspsine.multithreaddownload.demo.ui.fragment.RecyclerViewFragment"/>

@@ -7,6 +7,6 @@
     android:dividerHeight="8dp"
     android:padding="8dp"
     android:clipToPadding="false"
-    tools:context="com.aspsine.multithreaddownload.ui.fragment.ListViewFragment">
+    tools:context="com.aspsine.multithreaddownload.demo.ui.fragment.ListViewFragment">
 
 </ListView>
