@@ -6,9 +6,6 @@ import com.aspsine.multithreaddownload.demo.entity.AppInfo;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Aspsine on 2015/7/8.
- */
 public class DataSource {
 
     private static DataSource sDataSource = new DataSource();

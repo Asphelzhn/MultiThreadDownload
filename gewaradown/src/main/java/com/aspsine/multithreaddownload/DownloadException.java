@@ -1,8 +1,5 @@
 package com.aspsine.multithreaddownload;
 
-/**
- * Created by Aspsine on 2015/7/15.
- */
 public class DownloadException extends Exception {
     private String errorMessage;
     private int errorCode;

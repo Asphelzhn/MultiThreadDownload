@@ -17,9 +17,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.Executor;
 
-/**
- * Created by Aspsine on 2015/10/28.
- */
 public class DownloaderImpl implements Downloader, ConnectTask.OnConnectListener, DownloadTask.OnDownloadListener {
 
     private DownloadRequest mRequest;

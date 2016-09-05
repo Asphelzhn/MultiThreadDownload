@@ -6,9 +6,6 @@ import com.aspsine.multithreaddownload.architecture.DownloadResponse;
 import com.aspsine.multithreaddownload.architecture.DownloadStatus;
 import com.aspsine.multithreaddownload.architecture.DownloadStatusDelivery;
 
-/**
- * Created by Aspsine on 2015/10/29.
- */
 public class DownloadResponseImpl implements DownloadResponse {
     private DownloadStatusDelivery mDelivery;
 

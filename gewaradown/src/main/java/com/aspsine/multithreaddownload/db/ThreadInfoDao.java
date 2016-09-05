@@ -7,9 +7,6 @@ import android.database.sqlite.SQLiteDatabase;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by aspsine on 15-4-19.
- */
 public class ThreadInfoDao extends AbstractDao<ThreadInfo> {
 
     private static final String TABLE_NAME = ThreadInfo.class.getSimpleName();

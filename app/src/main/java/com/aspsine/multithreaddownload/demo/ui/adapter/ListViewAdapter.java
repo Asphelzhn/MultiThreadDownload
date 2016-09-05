@@ -22,9 +22,6 @@ import java.util.List;
 import butterknife.Bind;
 import butterknife.ButterKnife;
 
-/**
- * Created by Aspsine on 2015/7/8.
- */
 public class ListViewAdapter extends BaseAdapter {
 
     private List<AppInfo> mAppInfos;

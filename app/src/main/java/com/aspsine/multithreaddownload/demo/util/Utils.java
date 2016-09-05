@@ -12,9 +12,6 @@ import java.io.File;
 import java.text.DecimalFormat;
 import java.util.List;
 
-/**
- * Created by Aspsine on 2015/7/29.
- */
 public class Utils {
 
     private static final DecimalFormat DF = new DecimalFormat("0.00");

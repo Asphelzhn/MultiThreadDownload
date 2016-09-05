@@ -3,9 +3,6 @@ package com.aspsine.multithreaddownload;
 
 import java.io.File;
 
-/**
- * Created by Aspsine on 2015/4/20.
- */
 public class DownloadRequest {
     private String mUri;
 

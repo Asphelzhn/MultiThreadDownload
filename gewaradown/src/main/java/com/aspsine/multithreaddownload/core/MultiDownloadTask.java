@@ -1,9 +1,5 @@
 package com.aspsine.multithreaddownload.core;
 
-/**
- * Created by Aspsine on 2015/7/20.
- */
-
 import com.aspsine.multithreaddownload.DownloadInfo;
 import com.aspsine.multithreaddownload.db.DataBaseManager;
 import com.aspsine.multithreaddownload.db.ThreadInfo;

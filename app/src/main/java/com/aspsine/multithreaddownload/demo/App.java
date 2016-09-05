@@ -7,9 +7,6 @@ import com.aspsine.multithreaddownload.DownloadConfiguration;
 import com.aspsine.multithreaddownload.DownloadManager;
 import com.aspsine.multithreaddownload.util.FileUtils;
 
-/**
- * Created by Aspsine on 2015/4/20.
- */
 public class App extends Application {
     private static Context sContext;
 

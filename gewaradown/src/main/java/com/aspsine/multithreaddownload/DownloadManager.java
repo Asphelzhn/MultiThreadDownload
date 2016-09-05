@@ -21,9 +21,6 @@ import java.util.Map;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-/**
- * Created by Aspsine on 2015/7/14.
- */
 public class DownloadManager implements Downloader.OnDownloaderDestroyedListener {
 
     public static final String TAG = DownloadManager.class.getSimpleName();

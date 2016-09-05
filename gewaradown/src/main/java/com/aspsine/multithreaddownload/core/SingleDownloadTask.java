@@ -10,9 +10,6 @@ import java.io.RandomAccessFile;
 import java.net.HttpURLConnection;
 import java.util.Map;
 
-/**
- * Created by Aspsine on 2015/7/22.
- */
 public class SingleDownloadTask extends DownloadTaskImpl {
 
     public SingleDownloadTask(DownloadInfo mDownloadInfo, ThreadInfo mThreadInfo, OnDownloadListener mOnDownloadListener) {

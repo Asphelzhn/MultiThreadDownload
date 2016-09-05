@@ -9,9 +9,6 @@ import com.aspsine.multithreaddownload.architecture.DownloadStatusDelivery;
 
 import java.util.concurrent.Executor;
 
-/**
- * Created by Aspsine on 2015/7/15.
- */
 public class DownloadStatusDeliveryImpl implements DownloadStatusDelivery {
     private Executor mDownloadStatusPoster;
 

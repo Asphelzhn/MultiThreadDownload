@@ -23,9 +23,6 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.Map;
 
-/**
- * Created by Aspsine on 2015/7/27.
- */
 public abstract class DownloadTaskImpl implements DownloadTask {
 
     private String mTag;

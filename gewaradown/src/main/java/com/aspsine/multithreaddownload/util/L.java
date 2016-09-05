@@ -4,10 +4,6 @@ import android.util.Log;
 
 import com.aspsine.multithreaddownload.Constants;
 
-
-/**
- * Created by Aspsine on 2015/4/30.
- */
 public class L {
     private static final String TAG = "MultiThreadDownload";
 

@@ -4,9 +4,6 @@ import android.content.Context;
 
 import java.util.List;
 
-/**
- * Created by aspsine on 15-4-19.
- */
 public class DataBaseManager {
     private static DataBaseManager sDataBaseManager;
     private final ThreadInfoDao mThreadInfoDao;

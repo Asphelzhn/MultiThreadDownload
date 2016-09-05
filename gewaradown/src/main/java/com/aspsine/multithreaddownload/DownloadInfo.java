@@ -3,9 +3,6 @@ package com.aspsine.multithreaddownload;
 import java.io.File;
 import java.io.Serializable;
 
-/**
- * Created by aspsine on 15-4-19.
- */
 public class DownloadInfo {
     private String name;
     private String uri;

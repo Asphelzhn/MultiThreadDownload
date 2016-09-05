@@ -21,9 +21,6 @@ import com.aspsine.multithreaddownload.util.L;
 
 import java.io.File;
 
-/**
- * Created by aspsine on 15/7/28.
- */
 public class DownloadService extends Service {
 
     private static final String TAG = DownloadService.class.getSimpleName();

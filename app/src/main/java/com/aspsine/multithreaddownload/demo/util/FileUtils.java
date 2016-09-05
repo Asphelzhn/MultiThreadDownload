@@ -6,9 +6,6 @@ import android.support.annotation.NonNull;
 
 import java.io.File;
 
-/**
- * Created by aspsine on 15-4-19.
- */
 public class FileUtils {
     private static final String DOWNLOAD_DIR = "download";
 

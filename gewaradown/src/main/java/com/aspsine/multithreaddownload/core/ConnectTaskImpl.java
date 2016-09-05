@@ -14,9 +14,6 @@ import java.net.MalformedURLException;
 import java.net.ProtocolException;
 import java.net.URL;
 
-/**
- * Created by Aspsine on 2015/7/20.
- */
 public class ConnectTaskImpl implements ConnectTask {
     private final String mUri;
     private final OnConnectListener mOnConnectListener;

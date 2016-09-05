@@ -1,8 +1,5 @@
 package com.aspsine.multithreaddownload;
 
-/**
- * Created by Aspsine on 2015/7/14.
- */
 public class DownloadConfiguration {
 
     public static final int DEFAULT_MAX_THREAD_NUMBER = 10;

@@ -2,9 +2,6 @@ package com.aspsine.multithreaddownload.architecture;
 
 import com.aspsine.multithreaddownload.DownloadException;
 
-/**
- * Created by Aspsine on 2015/10/28.
- */
 public interface DownloadResponse {
 
     void onStarted();
