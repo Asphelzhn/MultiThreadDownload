@@ -41,11 +41,8 @@ public class ListViewFragment extends Fragment implements OnItemClickListener<Ap
 
     private List<AppInfo> mAppInfos;
     private ListViewAdapter mAdapter;
-
     private File mDownloadDir;
-
     private DownloadReceiver mReceiver;
-
     public ListViewFragment() {
         // Required empty public constructor
     }

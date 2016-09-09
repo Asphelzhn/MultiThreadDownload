@@ -11,6 +11,7 @@ public class DataSource {
     private static DataSource sDataSource = new DataSource();
 
     private static final String[] NAMES = {
+            "格瓦拉-自己",
             "格瓦拉-应用宝",
             "格瓦拉-FIR",
 
@@ -29,6 +30,7 @@ public class DataSource {
 
     private static final String[] IMAGES = {
             "http://pp.myapp.com/ma_icon/0/icon_5034_1471514862/96",
+            "http://pp.myapp.com/ma_icon/0/icon_5034_1471514862/96",
             "http://firicon.fir.im/09908021dc7454364a4266ca1334145acd5a0bcd",
 
             "http://img.wdjimg.com/mms/icon/v1/d/f1/1c8ebc9ca51390cf67d1c3c3d3298f1d_512_512.png",
@@ -45,6 +47,7 @@ public class DataSource {
     };
 
     private static final String[] URLS = {
+            "http://img5.gewara.com/upload/apk/201609/gewara_v7.1.0.apk?v=1473142184331",
             "http://imtt.dd.qq.com/16891/2ED1B174F59B26D50A7801F4F3332254.apk?fsname=com.gewara_7.0.1_69.apk&csr=4d5s",
             "http://pkg3.fir.im/a2a3389b2f2bd75ca1c3e9cb318892fbb6c24030.apk?attname=gewara_v7.1.0_2016-09-05_AS04.apk_7.1.0.apk",
 

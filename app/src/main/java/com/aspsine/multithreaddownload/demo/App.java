@@ -5,7 +5,6 @@ import android.content.Context;
 
 import com.aspsine.multithreaddownload.DownloadConfiguration;
 import com.aspsine.multithreaddownload.DownloadManager;
-import com.aspsine.multithreaddownload.util.FileUtils;
 
 public class App extends Application {
     private static Context sContext;
