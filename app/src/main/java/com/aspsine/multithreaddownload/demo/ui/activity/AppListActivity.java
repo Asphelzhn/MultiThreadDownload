@@ -25,9 +25,10 @@ public class AppListActivity extends AppCompatActivity {
         int type = intent.getIntExtra("EXTRA_TYPE", TYPE.TYPE_LISTVIEW);
 
         if (savedInstanceState == null) {
-            Fragment fragment =
-                    type == TYPE.TYPE_LISTVIEW ?
-                            new ListViewFragment() : new RecyclerViewFragment();
+//            Fragment fragment =
+//                    type == TYPE.TYPE_LISTVIEW ?
+//                            new ListViewFragment() : new RecyclerViewFragment();
+            Fragment fragment = new ListViewFragment();
             getSupportFragmentManager().beginTransaction()
                     .replace(R.id.container, fragment)
                     .commit();

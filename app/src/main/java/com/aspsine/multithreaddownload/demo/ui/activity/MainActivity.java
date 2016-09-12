@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         findViewById(R.id.btnListView).setOnClickListener(this);
-        findViewById(R.id.btnRecyclerView).setOnClickListener(this);
+//        findViewById(R.id.btnRecyclerView).setOnClickListener(this);
     }
 
     @Override
@@ -25,9 +25,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btnListView:
                 intent.putExtra("EXTRA_TYPE", AppListActivity.TYPE.TYPE_LISTVIEW);
                 break;
-            case R.id.btnRecyclerView:
-                intent.putExtra("EXTRA_TYPE", AppListActivity.TYPE.TYPE_RECYCLERVIEW);
-                break;
+//            case R.id.btnRecyclerView:
+//                intent.putExtra("EXTRA_TYPE", AppListActivity.TYPE.TYPE_RECYCLERVIEW);
+//                break;
             default:
                 return;
         }

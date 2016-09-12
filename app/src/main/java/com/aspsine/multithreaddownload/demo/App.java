@@ -3,8 +3,8 @@ package com.aspsine.multithreaddownload.demo;
 import android.app.Application;
 import android.content.Context;
 
-import com.aspsine.multithreaddownload.DownloadConfiguration;
-import com.aspsine.multithreaddownload.DownloadManager;
+import com.gewaradown.DownloadConfiguration;
+import com.gewaradown.DownloadManager;
 
 public class App extends Application {
     private static Context sContext;

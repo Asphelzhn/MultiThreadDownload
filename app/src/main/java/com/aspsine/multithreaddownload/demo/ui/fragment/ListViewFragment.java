@@ -14,8 +14,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-import com.aspsine.multithreaddownload.DownloadInfo;
-import com.aspsine.multithreaddownload.DownloadManager;
+import com.gewaradown.DownloadInfo;
+import com.gewaradown.DownloadManager;
 import com.aspsine.multithreaddownload.demo.DataSource;
 import com.aspsine.multithreaddownload.demo.R;
 import com.aspsine.multithreaddownload.demo.entity.AppInfo;

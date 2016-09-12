@@ -1,6 +1,5 @@
 package com.aspsine.multithreaddownload.demo.ui.fragment;
 
-
 import android.os.Bundle;
 import android.os.Environment;
 import android.support.v4.app.Fragment;
@@ -10,11 +9,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.aspsine.multithreaddownload.CallBack;
-import com.aspsine.multithreaddownload.DownloadException;
-import com.aspsine.multithreaddownload.DownloadInfo;
-import com.aspsine.multithreaddownload.DownloadManager;
-import com.aspsine.multithreaddownload.DownloadRequest;
+import com.gewaradown.CallBack;
+import com.gewaradown.DownloadException;
+import com.gewaradown.DownloadInfo;
+import com.gewaradown.DownloadManager;
+import com.gewaradown.DownloadRequest;
 import com.aspsine.multithreaddownload.demo.DataSource;
 import com.aspsine.multithreaddownload.demo.R;
 import com.aspsine.multithreaddownload.demo.entity.AppInfo;

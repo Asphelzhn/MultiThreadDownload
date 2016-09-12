@@ -10,14 +10,14 @@ import android.support.v4.app.NotificationCompat;
 import android.support.v4.app.NotificationManagerCompat;
 import android.support.v4.content.LocalBroadcastManager;
 
-import com.aspsine.multithreaddownload.CallBack;
-import com.aspsine.multithreaddownload.DownloadException;
-import com.aspsine.multithreaddownload.DownloadManager;
-import com.aspsine.multithreaddownload.DownloadRequest;
+import com.gewaradown.CallBack;
+import com.gewaradown.DownloadException;
+import com.gewaradown.DownloadManager;
+import com.gewaradown.DownloadRequest;
 import com.aspsine.multithreaddownload.demo.R;
 import com.aspsine.multithreaddownload.demo.entity.AppInfo;
 import com.aspsine.multithreaddownload.demo.util.Utils;
-import com.aspsine.multithreaddownload.util.L;
+import com.gewaradown.util.L;
 
 import java.io.File;
 

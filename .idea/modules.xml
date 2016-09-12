@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MultiThreadDownload.iml" filepath="$PROJECT_DIR$/MultiThreadDownload.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gewaradown/gewaradown.iml" filepath="$PROJECT_DIR$/gewaradown/gewaradown.iml" />
       <module fileurl="file://$PROJECT_DIR$/gewaradown/library.iml" filepath="$PROJECT_DIR$/gewaradown/library.iml" />
     </modules>
   </component>
